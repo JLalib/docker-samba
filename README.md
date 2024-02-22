@@ -21,3 +21,5 @@ docker cp CONTENEDOR:config/smb.conf .
 Para copiarlo de nuevo al contenedor
 
 docker cp /RUTA-FICHERO/smb.conf CONTENEDOR:config/smb.conf
+
+![Docker-Emblem](https://github.com/JLalib/docker-samba/assets/57844755/23e20d48-41f1-4642-be8c-2008075f7f84)
